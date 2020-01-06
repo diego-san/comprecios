@@ -2,4 +2,5 @@ db.sqlite3
 .idea/*
 inicio/__pycache__/*
 inicio/migrations/*
-.gitignore
+app/__pycache__/*
+app/migrations/*
